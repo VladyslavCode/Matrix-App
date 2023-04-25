@@ -1,0 +1,14 @@
+C:\Users\Vladyslav\OneDrive\Документи\Projects\Співбесіда_Admixer\MatrixApp\MatrixApp\bin\Debug\netcoreapp3.1\MatrixApp.exe
+C:\Users\Vladyslav\OneDrive\Документи\Projects\Співбесіда_Admixer\MatrixApp\MatrixApp\bin\Debug\netcoreapp3.1\MatrixApp.deps.json
+C:\Users\Vladyslav\OneDrive\Документи\Projects\Співбесіда_Admixer\MatrixApp\MatrixApp\bin\Debug\netcoreapp3.1\MatrixApp.runtimeconfig.json
+C:\Users\Vladyslav\OneDrive\Документи\Projects\Співбесіда_Admixer\MatrixApp\MatrixApp\bin\Debug\netcoreapp3.1\MatrixApp.runtimeconfig.dev.json
+C:\Users\Vladyslav\OneDrive\Документи\Projects\Співбесіда_Admixer\MatrixApp\MatrixApp\bin\Debug\netcoreapp3.1\MatrixApp.dll
+C:\Users\Vladyslav\OneDrive\Документи\Projects\Співбесіда_Admixer\MatrixApp\MatrixApp\bin\Debug\netcoreapp3.1\MatrixApp.pdb
+C:\Users\Vladyslav\OneDrive\Документи\Projects\Співбесіда_Admixer\MatrixApp\MatrixApp\obj\Debug\netcoreapp3.1\MatrixApp.csproj.AssemblyReference.cache
+C:\Users\Vladyslav\OneDrive\Документи\Projects\Співбесіда_Admixer\MatrixApp\MatrixApp\obj\Debug\netcoreapp3.1\MatrixApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladyslav\OneDrive\Документи\Projects\Співбесіда_Admixer\MatrixApp\MatrixApp\obj\Debug\netcoreapp3.1\MatrixApp.AssemblyInfoInputs.cache
+C:\Users\Vladyslav\OneDrive\Документи\Projects\Співбесіда_Admixer\MatrixApp\MatrixApp\obj\Debug\netcoreapp3.1\MatrixApp.AssemblyInfo.cs
+C:\Users\Vladyslav\OneDrive\Документи\Projects\Співбесіда_Admixer\MatrixApp\MatrixApp\obj\Debug\netcoreapp3.1\MatrixApp.csproj.CoreCompileInputs.cache
+C:\Users\Vladyslav\OneDrive\Документи\Projects\Співбесіда_Admixer\MatrixApp\MatrixApp\obj\Debug\netcoreapp3.1\MatrixApp.dll
+C:\Users\Vladyslav\OneDrive\Документи\Projects\Співбесіда_Admixer\MatrixApp\MatrixApp\obj\Debug\netcoreapp3.1\MatrixApp.pdb
+C:\Users\Vladyslav\OneDrive\Документи\Projects\Співбесіда_Admixer\MatrixApp\MatrixApp\obj\Debug\netcoreapp3.1\MatrixApp.genruntimeconfig.cache
